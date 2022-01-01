@@ -5,6 +5,10 @@
 
 Here are some ideas to get you started:
 -->
+
+![card](https://github.com/manav407/manav407/blob/main/manav.png)
+
+
 #### ```I’m currently learning B.TECH CSE.```
 
 ## Languages :
